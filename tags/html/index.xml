@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>html on ratudrakorku</title>
+    <link>https://ratudrakorku.netlify.app/tags/html/</link>
+    <description>Recent content in html on ratudrakorku</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
+    <lastBuildDate>Wed, 14 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ratudrakorku.netlify.app/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cara membuat teks Editor dengan HTML dan java script</title>
+      <link>https://ratudrakorku.netlify.app/artikel/cara-membuat-teks-editor-dengan-html-dan-java-script/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ratudrakorku.netlify.app/artikel/cara-membuat-teks-editor-dengan-html-dan-java-script/</guid>
+      <description>Cara Memasukkan Teks Editor di HTML dengan Javascript
+ Teks Editor merupakan sebuah form khusus yang memiliki fitur-fitur seperti membuat sebuah teks menjadi bold, italic, underline, dan lain-lain, secara sederhananya, ketika kamu membuat sebuah artikel baru di blogspot / wordpress, terdapat sebuah form khusus untuk menempatkan isi artikelnya, form itu merupakan sebuah Teks Editor.
+ kode lengkap Demo </description>
+    </item>
+    
+  </channel>
+</rss>

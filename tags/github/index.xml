@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>github on ratudrakorku</title>
+    <link>https://ratudrakorku.netlify.app/tags/github/</link>
+    <description>Recent content in github on ratudrakorku</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
+    <lastBuildDate>Mon, 11 Oct 2021 08:45:16 +0000</lastBuildDate><atom:link href="https://ratudrakorku.netlify.app/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cara Costom Domain Github Pages</title>
+      <link>https://ratudrakorku.netlify.app/artikel/cara-costom-domain-github-pages/</link>
+      <pubDate>Mon, 11 Oct 2021 08:45:16 +0000</pubDate>
+      
+      <guid>https://ratudrakorku.netlify.app/artikel/cara-costom-domain-github-pages/</guid>
+      <description>Cara Custom Domain ke Halaman GitHub
+Untuk dapat melakukan custom domain, pastikan Anda sudah menyiapkan domain yang masih aktif. Jika belum memilikinya, Anda bisa membeli domain terlebih dahulu.    (adsbygoogle = window.adsbygoogle || []).push({}); 
+Selanjutnya, ikuti langkah berikut:
+ Mengakses GitHub  Masukkan username dan password Anda untuk masuk ke GitHub
+ login ke Github     (adsbygoogle = window.adsbygoogle || []).push({});  Jika sudah berhasil, Anda akan masuk ke halaman utama GitHub di mana semua repositori Anda tersimpan  beranda</description>
+    </item>
+    
+    <item>
+      <title>Cara Deploy Hugo ke github</title>
+      <link>https://ratudrakorku.netlify.app/artikel/cara-deploy-hugo-ke-github/</link>
+      <pubDate>Mon, 04 Oct 2021 22:28:20 +0000</pubDate>
+      
+      <guid>https://ratudrakorku.netlify.app/artikel/cara-deploy-hugo-ke-github/</guid>
+      <description>Melanjutkan tulisan sebelumnya mengenai cara membuat blog dengan Hugo, sekarang kita akan menghostingkan static site yang kita buat ke Github. Dengan fitur Github Pages yang disediakan oleh Github, kita bisa menghostingkan file-file yang digenerate oleh Hugo.    (adsbygoogle = window.adsbygoogle || []).push({});  Pertama, buat terlebih dahulu sebuah repository di Github.
+Sebagai contoh, saya sudah membuat repository dengan alamat berikut:
+https://github.com/madewgn/madewgn.github.io/    (adsbygoogle = window.adsbygoogle || []).</description>
+    </item>
+    
+  </channel>
+</rss>

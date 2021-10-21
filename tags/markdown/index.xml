@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>markdown on ratudrakorku</title>
+    <link>https://ratudrakorku.netlify.app/tags/markdown/</link>
+    <description>Recent content in markdown on ratudrakorku</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
+    <lastBuildDate>Fri, 01 Oct 2021 10:46:30 +0000</lastBuildDate><atom:link href="https://ratudrakorku.netlify.app/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>panduan menulis mengunakan markdowns</title>
+      <link>https://ratudrakorku.netlify.app/artikel/panduan-menulis-mengunakan-markdowns/</link>
+      <pubDate>Fri, 01 Oct 2021 10:46:30 +0000</pubDate>
+      
+      <guid>https://ratudrakorku.netlify.app/artikel/panduan-menulis-mengunakan-markdowns/</guid>
+      <description>(adsbygoogle = window.adsbygoogle || []).push({});  Bagi yang sering bermain di Github dan web serupa, pasti sering melihat markdown. Biasanya markdown digunakan untuk menuliskan dokumentasi.
+Pada dasarnya markdown sama seperti HTML. Namun, lebih sederhana dan mudah dibaca.
+Saat ini markdown sudah digunakan untuk:
+  Dokumentasi;
+  SSG (Static Site Generator);
+  CMS seperti Ghost, Wordpress, Tumblr, dll.;
+  Penulisan Buku;
+  Format teks pada chat: Telegram, WA, Facebook;</description>
+    </item>
+    
+  </channel>
+</rss>
