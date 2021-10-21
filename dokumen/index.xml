@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dokumen on ratudrakorku</title>
+    <link>https://ratudrakorku.netlify.app/dokumen/</link>
+    <description>Recent content in Dokumen on ratudrakorku</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 09 Oct 2021 11:37:31 +0000</lastBuildDate><atom:link href="https://ratudrakorku.netlify.app/dokumen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pejuang Hugo Themes</title>
+      <link>https://ratudrakorku.netlify.app/dokumentasi/pejuang-hugo-themes/</link>
+      <pubDate>Sat, 09 Oct 2021 11:37:31 +0000</pubDate>
+      
+      <guid>https://ratudrakorku.netlify.app/dokumentasi/pejuang-hugo-themes/</guid>
+      <description>Yo halo, welcome back 😄👋 Kali ini saya mencoba tema Hugo baru nih yang saya beri nama &amp;ldquo;pejuang&amp;rdquo; ya pejuang sangat cocok buat kalian yang sedang berjuang di dunia blogging&amp;hellip;    (adsbygoogle = window.adsbygoogle || []).push({});  Tema cocok bua kalian yang suka blog dengan tampilan sederhana, btw tema hugo satu ini sangat muda untuk di modif, jadi sangat mudah jika kamu ingin nambahin beberapa kode di tema ini    (adsbygoogle = window.</description>
+    </item>
+    
+    <item>
+      <title>Lazy Bloggers Hugo themes</title>
+      <link>https://ratudrakorku.netlify.app/dokumentasi/lazy-bloggers-hugo-themes/</link>
+      <pubDate>Thu, 07 Oct 2021 04:26:53 +0000</pubDate>
+      
+      <guid>https://ratudrakorku.netlify.app/dokumentasi/lazy-bloggers-hugo-themes/</guid>
+      <description>Halo kawan - kawan, selamat datang di blog saya, kali ini saya akan memberikan sebuah tema Hugo buatan saya sendiri 😂
+DEMO    (adsbygoogle = window.adsbygoogle || []).push({});  Saya memberikan nama &amp;ldquo;Lazy-bloggers&amp;rdquo; Karena saya bukan seorang yang rajin:v
+Tanpa basa-basi lagi langsung saya di pemasangan tema nya
+Pertama silahkan buat dulu blog baru Hugo
+hugo new site [nama web] -f yml cd [nama web] git clone https://github.com/MADEWGN/Lazy-bloggers themes/Lazy-bloggers    (adsbygoogle = window.</description>
+    </item>
+    
+  </channel>
+</rss>
